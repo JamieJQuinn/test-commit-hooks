@@ -3,5 +3,10 @@ more change from development
 more change from main
 =======
 more change from development
+<<<<<<< HEAD
+>>>>>>> development
+more change from main
+=======
+more change from development
 >>>>>>> development
 more change from main
