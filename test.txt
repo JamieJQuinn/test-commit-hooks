@@ -1,2 +1,7 @@
 more change from development
+<<<<<<< HEAD
+more change from main
+=======
+more change from development
+>>>>>>> development
 more change from main
